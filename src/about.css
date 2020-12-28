@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+.about-style{
+    display: flex; 
+    padding: 200px;
+    margin: -30px;
+   color:  white;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 38px;
+    background-color: black;
+    margin-bottom: 200 px;
+   
+ }
