@@ -6,6 +6,13 @@
     "npm": "^7.3.0"
   },
   "private": true,
+
+  "peerDependencies": {
+    "react": "0.14.x || 15.x || 16.x",
+    "react-dom": "0.14.x || 15.x || 16.x",
+    "prop-types": "^15.x"
+  },
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
